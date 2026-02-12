@@ -11,7 +11,11 @@ middletext {"weight":700,"size":50}Archived by\n{default}Roger van der Weide
 
 middletext
 
-middletext {"weight":700,"size":50}Put back together by\n{default}Lily (ZesCrew2)
+middletext {"weight":700,"size":50}Evil Doc\n{default}Roger van der Weide\nAlexandra Fortain
+
+middletext
+
+middletext {"weight":700,"size":50}Modded to absolute hell by\n{default}Lily (ZesCrew2)
 
 middletext
 
@@ -95,7 +99,7 @@ middletext and {"weight":600}YOU!
 
 middletext
 
-middletext {"weight":700,"size":20}In memory of Sega of Antarctica
+middletext {"weight":700,"size":20}Happy 10 Years, Big's Big Fishing Adventure 3!!!
 
 middletext
 

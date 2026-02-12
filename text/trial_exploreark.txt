@@ -37,7 +37,7 @@ mugtext
 setcolor 0x606080
 setmugtextside RIGHT
 
-mugtext ???
+mugtext I AM NOT DR. EGGMAN
 mug eggman_silhouette STARTINVISIBLE TOVISIBLE STARTOUTRIGHT TOINRIGHT STARTDIRRIGHT TODIRRIGHT
 
 text Don't tell me you're looking for that frog again!
